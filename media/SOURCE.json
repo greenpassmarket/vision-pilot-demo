@@ -1,0 +1,66 @@
+{
+  "title": "Two Contrasting Buildings",
+  "creator": "Matthew Paul Argall",
+  "source_url": "https://archive.org/details/TwoContrastingBuildings2014",
+  "download_url": "https://archive.org/download/TwoContrastingBuildings2014/TwoContrastingBuildings2014.MTS",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "verified_on": "2026-10-20",
+  "source_sha1": "c7e07158ff50626f16384ebe3c6c46bb80fee9d2",
+  "changes": "First approximately 60 seconds; deinterlaced, resized to 1280x720 at 25 fps, audio removed. JPEG stills extracted every five seconds. No loops, illustrated scenes, synthetic frames or automatic redaction.",
+  "duration_s": 59.96,
+  "assets": {
+    "building-exteriors.mp4": {
+      "sha256": "9c50b3e911cd2bc42650e531f2aabe2db134f5199d1d5853c7106984338a41ae",
+      "bytes": 10852639
+    },
+    "frames/building-00.jpg": {
+      "sha256": "dfd82ad11a3e75ecf324c5b49c4b4f4fe2ec64d569c3083b674046f9ed002309",
+      "bytes": 113107
+    },
+    "frames/building-05.jpg": {
+      "sha256": "fc08af13dcfffa989ae6347ffad392d24272318378ff10a61535a35a8be0ab95",
+      "bytes": 63996
+    },
+    "frames/building-10.jpg": {
+      "sha256": "ba1d5042b5fe07c0bccbcbe0cc5eaf3ee64cb7d0c5f769e84bb11ae7aa5da141",
+      "bytes": 120409
+    },
+    "frames/building-15.jpg": {
+      "sha256": "8e6a8a0761d54f7afe91ae39087add41304fa59e2dcc1c7d9addaf1b32e8c463",
+      "bytes": 64471
+    },
+    "frames/building-20.jpg": {
+      "sha256": "fe95e938c7b782ca132b2328ea04f7a8d19207a7ae090dd89aa665a1cdb24d00",
+      "bytes": 65947
+    },
+    "frames/building-25.jpg": {
+      "sha256": "c629ddec25b3cc060259d79bc5be74f5df4b5919b5ef24a8898f49a47212ed92",
+      "bytes": 70736
+    },
+    "frames/building-30.jpg": {
+      "sha256": "d51991de31f62fd09f9085dc5321bd305735f2010bb17e42ddc6ccd3f4e152bc",
+      "bytes": 97696
+    },
+    "frames/building-35.jpg": {
+      "sha256": "dfcf89b8f488296ca83ff12c8963113ad0e658bdd4503bd7818d12aa58fb0341",
+      "bytes": 75122
+    },
+    "frames/building-40.jpg": {
+      "sha256": "8fbed0e41430e910f13d03ac87b54e258a9131d5ef781a09defdcd0b777599cc",
+      "bytes": 110630
+    },
+    "frames/building-45.jpg": {
+      "sha256": "94c11bc538c7fee182201aea1e16c05595e997bf21b0576ed601ffa756b60d1e",
+      "bytes": 87187
+    },
+    "frames/building-50.jpg": {
+      "sha256": "6798a6c3dfa4929f82ae2da4527c1c3aea04aec38d5fb8feae94a3e0281a7b2b",
+      "bytes": 52425
+    },
+    "frames/building-55.jpg": {
+      "sha256": "a8f70478a0183b5427ade67447d40c7c90d0dbe7f03c343e65b922c5379cde9b",
+      "bytes": 71295
+    }
+  }
+}
